@@ -5,6 +5,12 @@
 - 📫 feliperoveroni541@gmail.com
 - 😄 ele/dele
 
+### Contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/felipe-oliveira-a046b221a/)
+
+
 <div align="center">
   <a href="https://github.com/FelipeRoveroni">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeRoveroni&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
