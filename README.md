@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/FelipeRoveroni">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeRoveroni&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRoveroni&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeRoveroni&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRoveroni&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
