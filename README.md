@@ -3,7 +3,6 @@
 - 🔭 Hoje eu trabalho com automações em python
 - 🌱 Atualmente estou cursando ADS na Universidade FIAP
 - 📫 feliperoveroni541@gmail.com
-- 😄 ele/dele
 
 ### Contato
 
