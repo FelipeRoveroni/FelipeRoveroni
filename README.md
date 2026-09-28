@@ -42,17 +42,6 @@ Trabalho na construção de soluções que automatizam processos e conectam sist
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feliperoveroni541@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fe_carlini/)
 
-### GitHub
-
-<p align="center">
-  <img height="160" alt="Estatísticas do GitHub de Felipe Roveroni" src="https://github-readme-stats.vercel.app/api?username=FelipeRoveroni&show_icons=true&theme=midnight-purple&include_all_commits=true" />
-  <img height="160" alt="Linguagens nos repositórios públicos de Felipe Roveroni" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRoveroni&layout=compact&langs_count=7&theme=midnight-purple" />
-</p>
-
 ### Minhas contribuições em movimento 🐍
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeRoveroni/FelipeRoveroni/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeRoveroni/FelipeRoveroni/output/github-snake.svg" />
-  <img alt="Cobrinha animada percorrendo as contribuições de Felipe Roveroni" src="https://raw.githubusercontent.com/FelipeRoveroni/FelipeRoveroni/output/github-snake.svg" />
-</picture>
+![Cobrinha animada percorrendo as contribuições de Felipe Roveroni](https://raw.githubusercontent.com/FelipeRoveroni/FelipeRoveroni/output/github-contribution-grid-snake.svg)
