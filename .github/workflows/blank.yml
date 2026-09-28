@@ -1,12 +1,12 @@
-name: Atualizar cobrinha das contribuições
+name: Snake Game
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 4 * * *"
+    - cron: "0 */5 * * *"
   push:
     paths:
-      - ".github/workflows/snake.yml"
+      - ".github/workflows/**"
 
 permissions:
   contents: write
@@ -16,15 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Gerar SVG para temas claro e escuro
+      - name: Gerar SVG da cobrinha
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: FelipeRoveroni
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
 
-      - name: Publicar SVGs no branch output
+      - name: Publicar SVG no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
